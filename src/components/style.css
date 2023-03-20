@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to bottom,#d7edf5 0%, #b6b3f2 100%); 
+}
+.title{
+    font-family: cursive;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+            to right, #0505f1, #171735,
+            #0404f6, #eedd44);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
